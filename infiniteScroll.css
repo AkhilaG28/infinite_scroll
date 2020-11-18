@@ -1,0 +1,25 @@
+.heading {
+  color: navy;
+  text-align: center;
+}
+
+#root {
+  margin: auto;
+  width: 500px;
+  height: 90vh;
+  overflow: scroll;
+  border: 10px solid #1289a7;
+  border-radius: 20px;
+}
+
+.box {
+  margin: 20px auto;
+  display: grid;
+  place-items: center;
+  color: #273c75;
+  margin-bottom: 5px;
+  font-size: 30px;
+}
+.outer {
+  width: 100%;
+}
